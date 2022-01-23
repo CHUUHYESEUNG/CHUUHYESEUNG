@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Hailey
-** Puzzle pieces together **
 
 <!--
 **CHUUHYESEUNG/CHUUHYESEUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
