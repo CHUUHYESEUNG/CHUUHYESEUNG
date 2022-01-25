@@ -15,7 +15,7 @@
 </a>
 <a href="https://dalsoon-jang.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://dalsoon-jang.tistory.com"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Bloglovin&link=https://dalsoon-jang.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -24,6 +24,9 @@
 <br>
 
 ## :milky_way: TECH STACK :milky_way:
+
+##### Skills are coming together like a puzzle 
+
 <br>
 
 </div>
